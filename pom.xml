@@ -12,6 +12,7 @@
 	<artifactId>Estoque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Estoque</name>
+	<packaging>jar</packaging>
 	<description>Projeto para o sorteio do campeonato de pingpong</description>
 
 	<properties>
