@@ -20,7 +20,7 @@ public class ControllerCadastro {
 	
 	@PostMapping("/cadastro")
 	public String cadastro(Produto produto) {
-		crud.save(produto);
+		//crud.save(produto);
 		return "/cadastro";
 		
 	}
