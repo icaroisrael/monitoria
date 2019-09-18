@@ -18,11 +18,11 @@ public class ControllerCadastro {
 		return "cadastro";
 	}
 	
-	@PostMapping("/cadastro")
-	public String cadastro(Produto produto) {
+	//@PostMapping("/cadastro")
+	//public String cadastro(Produto produto) {
 		//crud.save(produto);
-		return "/cadastro";
+		//return "/cadastro";
 		
-	}
+	//}
 
 }
